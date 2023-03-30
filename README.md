@@ -63,5 +63,16 @@ For the purpose of this analysis, I will refer to Active Customers as those that
 - Customer Success teams should target inactive customers to drive sales and marketing goals. Special discounts on their favorite products can be offered to retain the relationship and prevent churn.
 
 
+<div class='tableauPlaceholder' id='viz1680184113064' style='position: relative'><noscript><a href='https:&#47;&#47;www.linkedin.com&#47;in&#47;kelechi-uzoukwu&#47;'><img alt='Dashboard 1 (2) ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;su&#47;superstore_16584224668910&#47;Dashboard12&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='superstore_16584224668910&#47;Dashboard12' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;su&#47;superstore_16584224668910&#47;Dashboard12&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-GB' /></object></div>                
+
+
+#### Click the medium link below for the full analytics report 
+
+##### Medium article: https://medium.com/@kelechiuzoukwu/superstore-sales-analysis-with-python-ee971d45ba9a
+##### Portfolio: https://www.kelechiuzoukwu.com/
+##### Tableau dashboard: https://public.tableau.com/app/profile/kelechi.uzoukwu/viz/superstore_16584224668910/Dashboard12
+##### Linkedin: https://www.linkedin.com/in/kelechi-uzoukwu/
+
+
 
 
